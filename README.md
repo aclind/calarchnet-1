@@ -1,9 +1,9 @@
 # Demo search
 
-Here's a bare-bones example search form and a browse link, which produces finding aids with the terms `architect*` and/or `california` in subject headings within `<controlaccess>`.
+Here's a bare-bones example search form and a browse link, which produces finding aids with the terms `architect*` and/or `california` in subject headings.
 
 
-*Search collections*
+## Search collections
 
 <form action="http://www.oac.cdlib.org/search" method="get" id="search-form" target="_blank">
 <input type="hidden" name="subject" value="architect* california"/>
@@ -11,4 +11,4 @@ Here's a bare-bones example search form and a browse link, which produces findin
 <input type="text" maxlength="200" name="query"/>
 </form>
 
-*<a href="http://www.oac.cdlib.org/search?subject=architect*+california&sort=title&query=">Browse collections</a>*
+## <a href="http://www.oac.cdlib.org/search?subject=architect*+california&sort=title&query=">Browse collections</a>
