@@ -8,7 +8,7 @@ Here's a bare-bones example search form and a browse link, which produces findin
 <form action="http://www.oac.cdlib.org/search" method="get" id="search-form" target="_blank">
 <input type="hidden" name="subject" value="architect* california"/>
 <input type="hidden" name="sort" value="title"/>
-<input value="search OAC" type="text" maxlength="200" name="query"/>
+<input type="text" maxlength="200" name="query"/>
 </form>
 
 *<a href="http://www.oac.cdlib.org/search?subject=architect*+california&sort=title&query=">Browse collections</a>*
