@@ -9,5 +9,3 @@ Here's a bare-bones example search form and a browse link, which produces findin
 </form>
 
 ## <a href="http://www.oac.cdlib.org/search?subject=architect*+california&sort=title&query=" target="_blank">Browse collections</a>
-
-Interested in having your library, archive, or museum's finding aids appear included?  Learn more....
