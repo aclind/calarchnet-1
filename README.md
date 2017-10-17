@@ -1,7 +1,4 @@
-# Demo search
-
-Here's a bare-bones example search form and a browse link, which produces finding aids with the terms `architect*` and/or `california` in subject headings.
-
+Here's a bare-bones example search form and a browse link, which produces finding aids with the terms `architect*` and/or `california` in subject headings.  
 
 ## Search collections
 
