@@ -8,4 +8,4 @@ Here's a bare-bones example search form and a browse link, which produces findin
 <input type="text" maxlength="200" name="query"/>
 </form>
 
-## <a href="http://www.oac.cdlib.org/search?subject=architect*+ca*&sort=Relevance&query=" target="_blank">Browse collections</a>
+## <a href="http://www.oac.cdlib.org/search?subject=architect*+ca*&sort=title&query=" target="_blank">Browse collections</a>
